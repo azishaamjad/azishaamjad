@@ -9,7 +9,7 @@
 
 # About Me
 
-* 🎓 BSCS Graduate with a strong foundation in Software Engineering and Web Development.
+* 🎓 BSCS Graduate with a strong foundation in UI/UX Designing and Web Development.
 * 🌱 Currently learning React, Django, MongoDB, and MySQL.
 * 💻 Building real-world full-stack applications and business solutions.
 * 🎯 Seeking opportunities as a Software Engineer / Full Stack Developer.
