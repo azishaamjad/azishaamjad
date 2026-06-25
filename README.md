@@ -55,7 +55,7 @@ Git • GitHub • Figma • CapCut
 
 # Featured Projects
 
-### 💰 Fintract – AI-Powered Double-Entry Accounting System
+### 💰 Fintrack – AI-Powered Double-Entry Accounting System
 
 **Final Year Project (FYP)**
 
