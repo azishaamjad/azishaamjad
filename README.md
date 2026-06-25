@@ -3,6 +3,9 @@
 ### BSCS Graduate | Aspiring Full Stack Developer | Expected Silver Medalist
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=azishaamjad&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 # 🌟 About Me
 
