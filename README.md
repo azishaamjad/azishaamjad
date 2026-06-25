@@ -16,7 +16,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### 💻 Languages
 
@@ -53,7 +53,7 @@ Git • GitHub • Figma • CapCut
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 💰 Fintract – AI-Powered Double-Entry Accounting System
 
