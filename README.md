@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=azishaamjad&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-# 🌟 About Me
+# About Me
 
 * 🎓 BSCS Graduate with a strong foundation in Software Engineering and Web Development.
 * 🌱 Currently learning React, Django, MongoDB, and MySQL.
@@ -39,12 +39,16 @@ Git • GitHub • Figma • CapCut
 </p>
 
 ---
----
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azishaamjad&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azishaamjad&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azishaamjad&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azishaamjad&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
